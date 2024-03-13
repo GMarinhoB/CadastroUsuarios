@@ -12,7 +12,8 @@ PARA O TOTAL FUNCIONAMENTO DO SISTEMA DEVE-SE ANTES:
 6- Criar conexão no MySql Workbench
 		hostname : localhost
 		username : root
-    senha : deixe sem
+  		senha : deixe sem
+7- Importe o Script SQL e ative o Workbench
 
 
 Após estes passos, o servidor estará devidamente conectado ;)
