@@ -26,4 +26,8 @@ PARA O TOTAL FUNCIONAMENTO DO SISTEMA DEVE-SE ANTES:
 
 
 
+OBSERVAÇÃO:
+
+Os comandos delete e de busca não utilizam a chave primária pois, para garantir maior consistencia dos dados, optei por não deixar o usuário ter acesso à mesma. Apenas o SQL gera as chaves e garante sua integridade.
+
 Após estes passos, o servidor estará devidamente conectado ;)
